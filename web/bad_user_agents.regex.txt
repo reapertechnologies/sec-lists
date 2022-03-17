@@ -30,6 +30,7 @@
 \bAboundexbot\b
 \bAcunetix\b
 \bADmantX\b
+\bpython-requests\b
 \bAfD-Verbotsverfahren\b
 \bAIBOT\b
 \bAiHitBot\b
